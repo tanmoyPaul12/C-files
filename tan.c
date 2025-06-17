@@ -1,8 +1,8 @@
-// #include<stdio.h>
-// int main(){
-//     printf("bYE world");
-//     return 0;
-// }
+#include<stdio.h>
+int main(){
+    printf("bYEee world");
+    return 0;
+}
 
 // #include<stdio.h>
 // #define N 10
